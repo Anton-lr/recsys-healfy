@@ -1,4 +1,4 @@
-user_id item_id user_rating
+user_id\titem_id\tuser_rating
 455	50	3.0
 455	457	4.0
 455	28	5.0
